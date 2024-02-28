@@ -26,7 +26,7 @@ multitude of opportunities that the world of software development offers.
 
 ### Current Project 🔧
 
-![Static Badge](https://img.shields.io/badge/online--shop-p?style=for-the-badge&logo=spring&color=gray&link=https%3A%2F%2Fgithub.com%2FOlegRyazancev%2Fonline-shop)
+[![Static Badge](https://img.shields.io/badge/online--shop-p?style=for-the-badge&logo=spring&color=gray)](https://github.com/OlegRyazancev/online-shop)
 
 <hr>
 
