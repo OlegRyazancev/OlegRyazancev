@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-<hr>
+### Hi there! 👋
 
 My name is **Oleg Ryazancev**
 
@@ -34,6 +32,7 @@ multitude of opportunities that the world of software development offers.
 
 ### Technologies 🛠️
 
+<div>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' width =40, alt="java">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg' width =40, alt="spring">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg' width =50, alt="docker">
@@ -51,6 +50,7 @@ multitude of opportunities that the world of software development offers.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg' width =40, alt="css">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' width =40, alt="js">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' width =40 alt="react">
+</div>
 
 <hr>
 
