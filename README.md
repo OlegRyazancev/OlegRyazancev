@@ -43,6 +43,7 @@ multitude of opportunities that the world of software development offers.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg' width =40, alt="mongodb">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg' width =40, alt="mariadb">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg' width =40, alt="redis">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg' width =40, alt="liquibase">
 
 <br>
 
