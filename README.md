@@ -58,7 +58,6 @@ multitude of opportunities that the world of software development offers.
 ### Contact me 🌐
 
 <a href="https://t.me/ryazaaancev"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50"></a>
-<a href="https://t.me/ryazaaancev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"></a>
 
 Feel free to reach out to me! 🌟
 
